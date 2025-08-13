@@ -1,0 +1,25 @@
+.grid {
+    display: grid;
+    gap: 2px;
+}
+
+.save {
+  height: 40px;
+  width: 40px;
+  border: 5px solid;
+  border-color: #f5f3eb #bab7a9 #bab7a9 #fff9db;
+  box-sizing: border-box;
+}
+
+.grid div {
+    width: 40px;
+    height: 40px;
+    background: #eee;
+    border: 1px solid #ccc;
+}
+
+.grid div:hover {
+    background: #add3ff;
+    border: 1px solid #cccccc;
+    cursor: pointer;
+}
