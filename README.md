@@ -1,2 +1,2 @@
 # Minesweeper
-Just a simple minesweeper game
+Just a simple minesweeper game (not done yet)
